@@ -1,0 +1,29 @@
+================
+Feel the Cabbage
+================
+
+Trova le verze e salva la Sagra della Cassoeula!
+------------------------------------------------
+
+La Sagra della Cassoeula sta per cominciare ma, proprio quando sembrava tutto pronto, si scopre che sono finite le verze!
+Soltanto tu, Eroe di Cavolandia, potrai salvare la situazione trovando le verze necessarie sparse per il villaggio prima che sia troppo tardi!
+Corri contro le verze che troverai per riuscire a portarle con te e garantire il successo della Sagra!
+
+=========
+Controlli
+=========
+
+Frecce/WASD		  --> Movimento della Scarpa
+Barra Spaziatrice --> Salta
+R                 --> (Dal menù di pausa) Ricomincia il gioco
+
+===============
+Note importanti
+===============
+Gioco sviluppato da Riccardo Verza.
+
+Questo gioco è da intendersi espressamente sviluppato per la candidatura all'accesso alla borsa di studio per l'iscrizione alla Digital Bros Game Academy.
+"Cabbage Productions" è un nome inventato appositamente per questa applicazione.
+I media audio e le immagini utilizzati nel gioco sono stati scaricati al solo scopo di essere parte di questa applicazione dimostrativa, pertanto non sono stati approfonditi controlli in merito ai singoli copyright.
+
+La release di prova per Windows è presente nella cartella "Releases".
